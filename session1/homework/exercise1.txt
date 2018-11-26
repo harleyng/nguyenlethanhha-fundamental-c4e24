@@ -1,0 +1,7 @@
+Exercise 1:
+
+- To check a variable's type we use function type
+- We will get SyntaxError from the compiler telling you that some of your variables have invalid names when we give a variable an illegal name 
+Example: 1.2ker
+         2.luv<3
+         3.lambda

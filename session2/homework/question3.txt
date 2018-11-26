@@ -1,0 +1,14 @@
+Nested conditional is conditional nested within another
+
+Ex: 
+if gender == "female"
+  if age > 18
+    print("This person is legal to get married")
+  else 
+    print("This person is illegal to get married")
+    
+else gender == "male"
+  if age > 21
+    print("This person is legal to get married")
+  else 
+    print("This person is illegal to get married")  

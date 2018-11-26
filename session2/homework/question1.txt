@@ -1,0 +1,5 @@
+A Boolean value is either True of False.
+EX: 1. 2 != 3
+    2. 4 <= 6
+    3. 3 == 4
+
