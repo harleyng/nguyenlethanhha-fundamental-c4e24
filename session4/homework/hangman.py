@@ -36,8 +36,8 @@ while loop:
 
     # fill all the blanks
     if not "_ " in blank:                 
-                    print("Congrats, you won")
-                    loop = False 
+        print("Congrats, you won")
+        loop = False 
                 
 
     # user guess is wrong
